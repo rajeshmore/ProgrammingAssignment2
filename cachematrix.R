@@ -49,4 +49,9 @@ cacheSolve <- function(x, ...) {
   
 }
 
-
+## Testing code 
+## x <- matrix(rnorm(9), nrow = 3)          
+## xx <- makeCacheMatrix(x)                 
+## xx$get()                                  
+## cacheSolve(xx)                            
+## cacheSolve(xx) 
